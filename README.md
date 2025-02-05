@@ -15,17 +15,11 @@ Follow these steps to run the project on your local machine:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/simple-drawing-app.git
+https://github.com/Ashahad07/Exonova_Task.git
 ```
 
-### 2. Navigate to the project directory
-Change into the project folder:
 
-```
-cd simple-drawing-app
-```
-
-### 3. Install dependencies
+### 2. Install dependencies
 
  Install the necessary dependencies using **npm** or **yarn**. Choose one of the following commands based on your package manager preference:
 
@@ -40,7 +34,7 @@ npm install
 yarn install
 ```
 
-### 4. Run the project
+### 3. Run the project
 Start the development server:
 
 - For npm:
